@@ -1,0 +1,13 @@
+beautifulsoup4
+matplotlib
+numpy
+pandas
+pycparser
+lmfit
+sticks
+statsmodels
+jupyter
+tqdm
+python-dateutil
+anytree
+seaborn
